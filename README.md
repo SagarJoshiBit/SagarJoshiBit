@@ -6,6 +6,7 @@
 
 - 🌱 I’m currently learning *Full Stack Web Development*
 - 👀 I’m interested in Web Development
+
 - 📫 How to reach me 
 - [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sagar-joshi-1b72b6245/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:joshisag2002@gmail.com)
