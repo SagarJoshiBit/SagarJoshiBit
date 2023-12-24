@@ -1,5 +1,6 @@
 ### Hi there <img src="https://user-images.githubusercontent.com/69508845/148013043-e04eb0ce-8326-436e-b22c-db521fda4803.gif" width="30px" height="25px">
 #### 🧑‍ I'm Sagar Joshi ! 
+<img align="right" alt="Coding" width="400" src="https://repository-images.githubusercontent.com/462900780/0a10af70-6cbf-46df-9071-0ff586a3b1d6">
 #### 🎓 MCA 2023-2024 Persuing @[BIT](http://www.bitedu.co.in/).
 <!-- ![Visitor Count](https://profile-counter.glitch.me/{SagarJoshiBit}/count.svg) -->
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=SagarJoshiBit.SagarJoshiBit)
