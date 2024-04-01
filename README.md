@@ -3,7 +3,7 @@
 <h1 align="center">Hi <img src="https://user-images.githubusercontent.com/69508845/148013043-e04eb0ce-8326-436e-b22c-db521fda4803.gif" width="30px" height="25px">, 🧑 I'm Sagar Joshi !</h1>
 <h3 align="center">Web Developer</h3>
 
-<img align="right" alt="Coding" width="300" src="https://repository-images.githubusercontent.com/462900780/0a10af70-6cbf-46df-9071-0ff586a3b1d6">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=SagarJoshiBit&label=Profile%20views&color=0e75b6&style=flat" alt="SagarJoshiBit" /> </p>
 
 #### 🎓 MCA 2023-2024 Persuing @[BIT](http://www.bitedu.co.in/).
 <!-- ![Visitor Count](https://profile-counter.glitch.me/{SagarJoshiBit}/count.svg) -->
